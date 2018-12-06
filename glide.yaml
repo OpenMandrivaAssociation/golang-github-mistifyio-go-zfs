@@ -1,0 +1,5 @@
+import:
+- package: github.com/pborman/uuid
+  version: cccd189d45f7ac3368a0d127efb7f4d08ae0b655
+package: github.com/mistifyio/go-zfs
+
